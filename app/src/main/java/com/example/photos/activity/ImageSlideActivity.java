@@ -48,3 +48,5 @@ public class ImageSlideActivity extends AppCompatActivity {
         }
     }
 }
+
+//done
