@@ -11,7 +11,6 @@ import com.example.photos.model.Photo;
 import java.io.File;
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
 public class ImageSlideAdapter extends PagerAdapter {
 
     private List<Photo> photos;

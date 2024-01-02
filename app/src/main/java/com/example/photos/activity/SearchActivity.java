@@ -14,7 +14,6 @@ import com.example.photos.model.Photo;
 
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
 public class SearchActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;

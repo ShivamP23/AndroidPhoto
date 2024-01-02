@@ -20,7 +20,6 @@ import com.example.photos.model.Photo;
 import java.io.File;
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
 public class SearchAdapter extends RecyclerView.Adapter<SearchAdapter.ViewHolder> {
 
     private List<Photo> photos;

@@ -15,7 +15,6 @@ import com.example.photos.model.Photo;
 
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
 public class ImageSlideActivity extends AppCompatActivity {
 
     private Album selectedAlbum;
@@ -48,5 +47,3 @@ public class ImageSlideActivity extends AppCompatActivity {
         }
     }
 }
-
-//done

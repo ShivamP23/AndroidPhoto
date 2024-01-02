@@ -21,7 +21,6 @@ import com.example.photos.model.Album;
 import com.example.photos.model.Photo;
 import java.io.File;
 
-// @author Shivam Patel and Neel Patel
 public class PhotoViewAdapter extends RecyclerView.Adapter<PhotoViewAdapter.PhotoViewHolder> {
 
     private Context context;

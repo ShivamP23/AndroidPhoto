@@ -30,7 +30,7 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
+
 public class AlbumViewActivity extends AppCompatActivity {
 
     RecyclerView photoRecyclerView;
@@ -41,6 +41,7 @@ public class AlbumViewActivity extends AppCompatActivity {
 
     private PreferenceDB db;
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -149,6 +150,3 @@ public class AlbumViewActivity extends AppCompatActivity {
         }
     }
 }
-
-
-//done

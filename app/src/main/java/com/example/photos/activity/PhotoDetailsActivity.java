@@ -28,7 +28,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-// @author Shivam Patel and Neel Patel
 public class PhotoDetailsActivity extends AppCompatActivity {
 
     private EditText tagValueTxtFld;

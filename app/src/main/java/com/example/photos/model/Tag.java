@@ -3,7 +3,6 @@ package com.example.photos.model;
 import java.io.Serializable;
 import java.util.Objects;
 
-// @author Shivam Patel and Neel Patel
 public class Tag implements Serializable {
     private String key;
     private String value;

@@ -11,7 +11,6 @@ import com.google.gson.reflect.TypeToken;
 import java.util.ArrayList;
 import java.util.List;
 
-// @author Shivam Patel and Neel Patel
 public class PreferenceDB {
 
     private static final String PREFS_NAME = "AlbumPrefs";
@@ -52,7 +51,6 @@ public class PreferenceDB {
             album.addPhoto(photo3);
             album.addPhoto(photo4);
             album.addPhoto(photo5);
-            album.addPhoto(photo6);
 
             List<Album> albums = new ArrayList<>();
             albums.add(album);
@@ -97,4 +95,3 @@ public class PreferenceDB {
         saveAlbums(albums);
     }
 }
-//done

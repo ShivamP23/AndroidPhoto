@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-// @author Shivam Patel and Neel Patel
 public class Album implements Serializable {
 
     private String name;  // Name is used as the identifier

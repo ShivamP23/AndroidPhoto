@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-// @author Shivam Patel and Neel Patel
+// Photos Pojo
 public class Photo implements Serializable {
     private final Set<Tag> tags;
     private int imageResourceId;
